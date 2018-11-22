@@ -12,4 +12,4 @@ Array.prototype.bubbleSort = function() {
 };
 
 
-console.log([3,4,6,7,2,3].bubbleSort());
+console.log([3,4,6,7,3,8].bubbleSort());
